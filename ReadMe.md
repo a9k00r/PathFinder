@@ -1,5 +1,3 @@
-# Locus Assignment Doc
-
 ### Prerequisites
 
 - Java 1.8
