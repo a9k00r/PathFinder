@@ -17,14 +17,8 @@
 
 **Running the app:** `make run` or `mvn spring-boot:run -Dspring-boot.run.profiles=local`
 
-### Deployment
-
-See this [documentation](deployment/ReadMe.md)
-
-
 ### how to use:
-
-    import collection in postman and call the api
+- import collection in postman and call the api
 
 #### collection link:
 
